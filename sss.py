@@ -8,21 +8,11 @@ st.set_page_config(
     layout="wide"
 )
 
-img1_path = r"D:\huggy\download.jpg"
-img2_path = r"C:\Users\jofra\Desktop\ADSAA_Work\Main\Gemini_Generated_Image (2).jpg"
+img1_path = r"download.jpg"
+img2_path = r"Gemini_Generated_Image (2).jpg"
 background_generator = BackgroundCSSGenerator(img1_path, img2_path)
 page_bg_img = background_generator.generate_background_css()
 st.markdown(page_bg_img, unsafe_allow_html=True)
-
-custom_css = """
-<style>
-body {
-    font-size: 20px; /* Adjust the font size as needed */
-}
-</style>
-"""
-st.markdown(custom_css, unsafe_allow_html=True)
-
 
 st.title("❄️ SnowFlake Artic : An Enterprise Grade Open Source LLM ❄️")
 st.divider()
