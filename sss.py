@@ -128,6 +128,14 @@ st.write("- ❄️ [Snowflake Arctic Model on Hugging Face](https://huggingface.
 st.divider()
 st.header("Conclusion 🎉")
 st.write("Snowflake Arctic emerges as a leading enterprise-focused large language model, offering unparalleled performance, efficiency, and openness. Its innovative hybrid architecture, cost-effective training approach, and versatile applications position it as a transformative asset for businesses seeking to harness the power of AI for competitive advantage and innovation in the enterprise space.")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.caption("Curious about another groundbreaking LLM? Meet 'Phi-3' by Microsoft, a tiny monster! Learn how to almost instantly run it on your local machine. Check this out:")
+st.caption("[Detailed Documentation on LinkedIn](https://www.linkedin.com/posts/prithvi-ragavendiran-r-395797257_opensourcecommunity-collaboration-innovation-activity-7188871625511956480-WYDl?utm_source=share&utm_medium=member_desktop)")
+
 
 while True:
     st.snow()
