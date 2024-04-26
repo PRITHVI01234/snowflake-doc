@@ -88,6 +88,8 @@ col1,col2=st.columns([1,1])
 with col1:
     st.image('1.jpg', use_column_width=True)
 with col2:
+    st.write("")
+    st.write("")
     st.image('2.jpg', use_column_width=True)
 
 st.divider()
