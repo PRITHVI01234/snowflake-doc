@@ -100,6 +100,8 @@ st.write("- ❄️ Resource Efficiency: By activating a subset of parameters bas
 st.divider()
 st.subheader("Future Directions and Impact 🌟")
 st.write("Snowflake Arctic's innovative approach and promising performance have significant implications for the future of AI technology and enterprise applications.")
+st.write("")
+st.write("")
 
 st.subheader("Potential Impact ❄️:")
 st.write("- ❄️ Accessibility: Empowers businesses with accessible and cost-effective AI solutions, driving innovation and efficiency across various industries.")
