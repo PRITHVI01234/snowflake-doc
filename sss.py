@@ -25,6 +25,7 @@ st.header("Key Features ✨:")
 st.write("- ❄️ Hybrid Architecture: Combines a dense transformer model with a residual MoE (Mixture of Experts) MLP, resulting in a unique and efficient model design.")
 st.write("- ❄️ Cost-Effective Training: Trained with a budget of under $2 million, significantly lower compared to other models like GPT-4, making it accessible to a broader range of users.")
 st.write("- ❄️ Open-Source Nature: Licensed under the Apache 2.0 license, providing access to weights, code, data recipes, and research insights, fostering collaboration and innovation in the AI community.")
+st.write("- ❄️ Enterprise Task Excellence: Excels at enterprise tasks such as SQL generation, coding assistance, and instruction following compared to other latest models")
 st.divider()
 
 st.header("Model Architecture and Functionality 🏗️")
