@@ -131,4 +131,4 @@ st.write("Snowflake Arctic emerges as a leading enterprise-focused large languag
 
 while True:
     st.snow()
-    time.sleep(25)
+    time.sleep(40)
