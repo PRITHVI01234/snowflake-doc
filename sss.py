@@ -75,7 +75,7 @@ st.write("- 🏂 Benchmark Comparisons: Arctic exceeds or matches the performanc
 st.write("- 🏂 Resource Efficiency: Achieves comparable or superior performance while using fewer computational resources and training budget compared to other models.")
 st.divider()
 
-st.subheader("Comparison with Other LLMs 📊")
+st.header("Comparison with Other LLMs 📊")
 st.write("Snowflake Arctic's performance and efficiency stand out when compared to other large language models in the field ☃️")
 st.write("")
 st.write("")
