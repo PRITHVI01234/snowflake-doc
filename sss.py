@@ -3,7 +3,7 @@ import time
 from background import BackgroundCSSGenerator
 
 st.set_page_config(
-    page_title="❄️ Snowflake Arctic Overview ❄️",
+    page_title="Snowflake Arctic Overview",
     page_icon="❄️",
     layout="wide"
 )
