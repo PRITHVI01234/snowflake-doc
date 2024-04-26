@@ -86,10 +86,8 @@ st.write("- ❄️ Resource Utilization: Demonstrates superior efficiency and co
 st.write("- ❄️ Training Budget: Significantly lower training cost compared to other models, enabling enterprises to achieve high-quality results without exorbitant investment.")
 col1,col2=st.columns([1,1])
 with col1:
-    st.image('1.jpg', use_column_width=True)
+    st.image('11.jpg', use_column_width=True)
 with col2:
-    st.write("")
-    st.write("")
     st.image('2.jpg', use_column_width=True)
 
 st.divider()
