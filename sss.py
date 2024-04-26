@@ -98,7 +98,7 @@ st.write("Snowflake Arctic's utilization of active parameters enhances its effic
 st.write("- ❄️ Top-2 Gating Mechanism: Parameters are chosen using a top-2 gating mechanism, which selects the most relevant experts for a given input, further enhancing the model's efficiency and effectiveness.")
 st.write("- ❄️ Resource Efficiency: By activating a subset of parameters based on input context, Arctic minimizes computational overhead while maintaining high-quality outputs, making it suitable for deployment in resource-constrained environments.")
 st.divider()
-st.subheader("Future Directions and Impact 🌟")
+st.header("Future Directions and Impact 🌟")
 st.write("Snowflake Arctic's innovative approach and promising performance have significant implications for the future of AI technology and enterprise applications.")
 st.write("")
 st.write("")
