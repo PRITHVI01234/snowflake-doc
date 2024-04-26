@@ -14,7 +14,7 @@ background_generator = BackgroundCSSGenerator(img1_path, img2_path)
 page_bg_img = background_generator.generate_background_css()
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-st.title("❄️ SnowFlake Artic : An Enterprise Grade Open Source LLM ❄️")
+st.title("❄️ SnowFlake Arctic : An Enterprise Grade Open Source LLM ❄️")
 st.divider()
 
 st.header("About 'Snowflake Arctic' ❄️")
