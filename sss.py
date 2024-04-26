@@ -84,6 +84,8 @@ st.subheader("Comparative Analysis ❄️:")
 st.write("- ❄️ Performance Benchmarks: Arctic exceeds or matches the performance of Llama 3, GPT-3, and other leading models in enterprise tasks, showcasing its efficacy in real-world applications.")
 st.write("- ❄️ Resource Utilization: Demonstrates superior efficiency and cost-effectiveness, making it an attractive option for businesses seeking to deploy AI solutions at scale.")
 st.write("- ❄️ Training Budget: Significantly lower training cost compared to other models, enabling enterprises to achieve high-quality results without exorbitant investment.")
+st.write("")
+st.write("")
 col1,col2=st.columns([1,1])
 with col1:
     st.image('11.jpg', use_column_width=True)
